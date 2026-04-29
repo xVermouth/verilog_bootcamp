@@ -10,10 +10,12 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 This is a matrix drop down showing ONINXZXC NGIX. Use switches to change color mode.
+This is a sample modification of an existing verilog code.
 
 ## How to test
 
-This is a matrix drop down showing ONINXZXC NGIX
+This is a matrix drop down showing ONINXZXC NGIX. Use switches to change color mode.
+This is a sample modification of an existing verilog code.
 
 ## External hardware
 
