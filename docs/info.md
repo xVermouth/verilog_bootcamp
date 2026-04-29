@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a matrix drop down showing ONINXZXC NGIX. Use switches to change color mode.
 
 ## How to test
 
-Explain how to use your project
+This is a matrix drop down showing ONINXZXC NGIX
 
 ## External hardware
 
