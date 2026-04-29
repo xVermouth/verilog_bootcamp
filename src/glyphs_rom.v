@@ -1,7 +1,7 @@
 `default_nettype none
 
 module glyphs_rom(
-    input  wire [5:0] c, input  wire [3:0] y, input  wire [2:0] x, output reg pixel
+    input  wire [3:0] c, input  wire [3:0] y, input  wire [2:0] x, output reg pixel
 );
     reg [7:0] rb; 
 
